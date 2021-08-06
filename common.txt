@@ -1,5 +1,5 @@
 red
 green
 blue
-jhon
-michael
+yellow
+white
